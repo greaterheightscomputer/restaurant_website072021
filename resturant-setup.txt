@@ -1,0 +1,41 @@
+step 1: create index.html
+	- on the index.html html5
+	- the structure is in index1.html
+step 2: index2.html
+		
+step 3: index3.html
+	- after setting up the footer, media query go back to header tags 
+	
+step 4: Host the Static Website
+	Getting Your Static Website Server Up with Netlify Web Hosting Company for Free
+
+	How to setup Netlify Host Site
+	Step 1: Go to htts://www.netlify.com
+	Step 2: Sign up with email for new users
+	Step 3: Log in for already existing users
+	Step 4: Drag any project from your local system to the Sites tab
+	Step 5:	You can also rename site name by going to setting --> change site name button --> Change the site 	name and click on Save 
+        But since is a free hosting website the hosting company will add .netlify.com to your site name like this: 	https://greater-noteapp.netlify.com/ 
+
+	How to update existing web site
+	-------------------------------
+	Step 1: Login to Netlify
+	Step 2: Click on the existing web site
+	Step 3: Click on Deploys tab
+	Step 4: Scroll down to Production Deploy area 
+        	- You will see 
+	        - Need to update your site?
+        	  Drag and drop your site folder here
+	        - Drag your public folder in that area
+        	- Then click on your site URL to view it on the browser  
+
+	user detail to login to netlify.com
+	user: greaterheightscomputer@gmail.com
+	password: greater123*@#
+
+	- url or endpoint: https://restaurant072021.netlify.app
+Step 5: Push the website to remote github
+	git url: https://github.com/greaterheightscomputer/restaurant13072021.git
+	https://github.com/greaterheightscomputer/restaurant13072021.git
+
+download the assets from this url:  https://github.com/greaterheightscomputer/restaurant13072021
